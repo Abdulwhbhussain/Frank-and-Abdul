@@ -5,3 +5,7 @@
       height: 207px;
     }
 }
+#both > #Topdiv #nav{
+  display: flex;
+  flex-direction: row;
+}
